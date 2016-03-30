@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='genderComputer',
-      version='0.0.1',
+      version='0.0.2',
       description="Python tool that tries to infer a person's gender from their name (mostly first name) and location (country)",
       long_description=open('readme.md').read(),
       author='Alexander Serebrenik',
